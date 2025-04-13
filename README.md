@@ -16,7 +16,7 @@ This project is a relational database system for managing the operations of a bo
 - Sample data included for testing and demonstration
 
 ## Entity-Relationship Diagram (ERD)
-![ERD](./A_Entity-Relationship_Diagram_(ERD)_for_a_bookstor.png)
+![ERD](https://drive.google.com/file/d/17tkiBWbvyLTcxsWQ3hOGRAg8FnHh02Sd/view?usp=sharing)
 
 ## Database Tables
 - `book`, `author`, `publisher`, `book_language`
