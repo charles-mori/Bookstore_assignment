@@ -39,13 +39,9 @@ This project is a relational database system for managing the operations of a bo
 - Test with custom queries or connect with an application
 
 ## User Roles & Permissions
-- admin_user – Full access to all database objects
-
-- editor_user – Can read and modify data, but not drop tables
-
-- readonly_user – Can only perform SELECT queries
-
-- SQL script to create these users and assign permissions is provided in user_roles.sql.
+- db_admin - Full access to all database objects
+- db_developer - Can read and modify data, but not drop tables
+- db_viewer	- Can only perform SELECT queries
 
 ## Contributors
 1. Charles Mori – Project Lead, ERD Design, SQL Development
