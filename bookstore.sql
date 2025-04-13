@@ -124,9 +124,9 @@ INSERT INTO address_status (status) VALUES
 ('primary'), ('secondary'), ('work'), ('home'), ('other');
 
 INSERT INTO customer (name) VALUES
-('John Doe'), ('Alice Smith'), ('Peter Kim'), ('Grace Achieng'),
+('Lisa Abasi'), ('Elena Abanmo'), ('Paula Bello'), ('Grace Achieng'),
 ('Michael Johnson'), ('Linda Okello'), ('Ahmed Musa'),
-('Beatrice Anyango'), ('Ezekiel Otieno'), ('Sarah Brown');
+('Beatrice Anyango'), ('Ezekiel Otieno'), ('Sarah Fatima');
 
 INSERT INTO customer_address (customer_id, address_id, address_status_id) VALUES
 (1,1,1), (2,2,1), (3,3,1), (4,4,1), (5,5,1),
